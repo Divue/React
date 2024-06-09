@@ -20,7 +20,7 @@ function App() {
       </h1>
       
       <Card Username="chaiaurcode"   btnText='Click me' />
-      <Card  Username="React by hitesh"  btnText='VISIT me'/>
+      <Card  Username="React by hitesh Choudhary"  btnText='VISIT me'/>
     </>
   );
 }
